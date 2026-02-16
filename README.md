@@ -16,7 +16,7 @@ I'm a passionate **Backend Developer** from Romania, specialized in Java ecosyst
 - 🌱 I'm deeply learning **Advanced Java, Spring Cloud, and System Design**
 - 👯 I'm open to collaborations on **Java backend projects**
 - 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs**
-- 📫 How to reach me: **mihail.tertea@email.com**
+- 📫 How to reach me: **mihailertea@gmail.com**
 - ⚡ Fun fact: **I built my first computer at age 12**
 
 ## 🛠️ Tech Stack
